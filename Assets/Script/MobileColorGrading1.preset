@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MobileColorGrading1
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 2890742f02dc8b543946c041296c5e8b,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: toneMapping
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: colorMaterial
+    value: 
+    objectReference: {fileID: 2100000, guid: dd017b695d35f3d40ad296054c5aa9fb, type: 2}
+  - target: {fileID: 0}
+    propertyPath: shader
+    value: 
+    objectReference: {fileID: 4800000, guid: 882e54c96926fba41a8f998a4d293b44, type: 3}
+  - target: {fileID: 0}
+    propertyPath: Exposure
+    value: 0.458
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Contrast
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Saturation
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Gamma
+    value: 0.872
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: vignetteIntensity
+    value: 0.5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: R
+    value: -100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: G
+    value: -100
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: B
+    value: -100
+    objectReference: {fileID: 0}
