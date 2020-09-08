@@ -9,7 +9,7 @@ namespace BayatGames.SaveGamePro.Examples
 	/// <summary>
 	/// Save transform example.
 	/// </summary>
-	public class SaveTransform : MonoBehaviour
+	public class SaveManager: MonoBehaviour
 	{
 
         /// <summary>
